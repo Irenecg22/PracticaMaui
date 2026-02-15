@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiPractica</name>
+    </assembly>
+    <members>
+        <member name="T:MauiPractica.ViewModels.DepartamentoDetalleViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:MauiPractica.ViewModels.DepartamentoDetalleViewModel.Departamento">
+            <inheritdoc cref="F:MauiPractica.ViewModels.DepartamentoDetalleViewModel.departamento"/>
+        </member>
+        <member name="T:MauiPractica.ViewModels.MainDetalleViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:MauiPractica.ViewModels.MainDetalleViewModel.Empleado">
+            <inheritdoc cref="F:MauiPractica.ViewModels.MainDetalleViewModel.empleado"/>
+        </member>
+        <member name="T:MauiPractica.ViewModels.MainViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:MauiPractica.ViewModels.MainViewModel.Empleados">
+            <inheritdoc cref="F:MauiPractica.ViewModels.MainViewModel.empleados"/>
+        </member>
+        <member name="T:MauiPractica.ViewModels.SettingsViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:MauiPractica.ViewModels.SettingsViewModel.Themes">
+            <inheritdoc cref="F:MauiPractica.ViewModels.SettingsViewModel.themes"/>
+        </member>
+        <member name="P:MauiPractica.ViewModels.SettingsViewModel.SelectedTheme">
+            <inheritdoc cref="F:MauiPractica.ViewModels.SettingsViewModel.selectedTheme"/>
+        </member>
+        <member name="F:MauiPractica.ViewModels.SettingsViewModel.saveSettingsCommand">
+            <summary>The backing field for <see cref="P:MauiPractica.ViewModels.SettingsViewModel.SaveSettingsCommand"/>.</summary>
+        </member>
+        <member name="P:MauiPractica.ViewModels.SettingsViewModel.SaveSettingsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:MauiPractica.ViewModels.SettingsViewModel.SaveSettings"/>.</summary>
+        </member>
+        <member name="T:MauiPractica.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+        <member name="T:DepartamentoViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:DepartamentoViewModel.Departamentos">
+            <inheritdoc cref="F:DepartamentoViewModel.departamentos"/>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Departamento">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Departamento" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Departamentos">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Departamentos" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Empleado">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Empleado" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Empleados">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Empleados" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Themes">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Themes" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SelectedTheme">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SelectedTheme" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Departamento">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Departamento" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Departamentos">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Departamentos" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Empleado">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Empleado" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Empleados">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Empleados" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Themes">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Themes" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SelectedTheme">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SelectedTheme" generated properties.</summary>
+        </member>
+    </members>
+</doc>

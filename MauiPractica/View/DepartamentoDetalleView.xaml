@@ -1,0 +1,13 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiPractica.View.DepartamentoDetalleView"
+             Title="Detalle Departamento">
+
+    <VerticalStackLayout Padding="20" Spacing="10">
+        <Label Text="ID:" FontAttributes="Bold"/>
+        <Label Text="{Binding Departamento.Id}" FontSize="18"/>
+
+        <Label Text="Nombre:" FontAttributes="Bold"/>
+        <Label Text="{Binding Departamento.Name}" FontSize="18"/>
+    </VerticalStackLayout>
+</ContentPage>

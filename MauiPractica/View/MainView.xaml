@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiPractica.View.MainView"
+             Title="Empleados">
+
+    <Grid ColumnDefinitions="3*,1*" Padding="10">
+
+        <CollectionView Grid.Column="0"
+                        ItemsSource="{Binding Empleados}"
+                        SelectionMode="Single"
+                        SelectedItem="{Binding EmpleadoSeleccionado}">
+
+            <CollectionView.Header>
+                <Grid ColumnDefinitions="1*,2*,2*,2*" BackgroundColor="DeepPink" Padding="5">
+                    <Label Text="Id" FontAttributes="Bold"/>
+                    <Label Grid.Column="1" Text="Nombre" FontAttributes="Bold"/>
+                    <Label Grid.Column="2" Text="Puesto" FontAttributes="Bold"/>
+                    <Label Grid.Column="3" Text="Numero departamento" FontAttributes="Bold"/>
+                </Grid>
+            </CollectionView.Header>
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid ColumnDefinitions="1*,2*,2*,2*" Padding="5">
+                        <Label Text="{Binding Id}" />
+                        <Label Grid.Column="1" Text="{Binding Name}" />
+                        <Label Grid.Column="2" Text="{Binding Puesto}" />
+                        <Label Grid.Column="3" Text="{Binding Departamento_id}" />
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+        </CollectionView>
+
+        <VerticalStackLayout Grid.Column="1"
+                           Padding="20"
+                         Spacing="20"
+                             HorizontalOptions="Center"
+                 VerticalOptions="Center">
+
+            <Label Text="Empleado seleccionado:"
+                   FontAttributes="Bold"/>
+
+            <Label Text="{Binding EmpleadoSeleccionado.Name}"
+                   FontSize="18"  HorizontalOptions="Center"/>
+
+            <Button Text="Ver detalles"
+                    BackgroundColor="DeepPink"
+                    Command="{Binding VerDetallesCommand}"
+                    CommandParameter="{Binding EmpleadoSeleccionado}"
+                    IsVisible="{Binding EmpleadoSeleccionado}" />
+
+        </VerticalStackLayout>
+
+    </Grid>
+
+</ContentPage>
+
+

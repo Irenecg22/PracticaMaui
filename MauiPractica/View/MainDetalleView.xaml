@@ -1,0 +1,21 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiPractica.View.MainDetalleView"
+             Title="Detalle Empleado">
+
+    <VerticalStackLayout Padding="20" Spacing="10">
+        <Label Text="ID:" FontAttributes="Bold"/>
+        <Label Text="{Binding Empleado.Id}" FontSize="18"/>
+
+        <Label Text="Nombre:" FontAttributes="Bold"/>
+        <Label Text="{Binding Empleado.Name}" FontSize="18"/>
+
+        <Label Text="Puesto:" FontAttributes="Bold"/>
+        <Label Text="{Binding Empleado.Puesto}" FontSize="18"/>
+        <Label Text="Departamento:" FontAttributes="Bold"/>
+        <Label Text="{Binding Empleado.Departamento_id}" FontSize="18"/>
+        <Label Text="Imagen:" FontAttributes="Bold"/>
+        <Label Text="{Binding Empleado.Image_uri}" FontSize="18"/>
+
+    </VerticalStackLayout>
+</ContentPage>

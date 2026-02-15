@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiPractica.View.DepartamentoView"
+             Title="Departamentos">
+
+    <Grid ColumnDefinitions="3*,1*" Padding="10">
+
+        <CollectionView Grid.Column="0"
+                        ItemsSource="{Binding Departamentos}"
+                        SelectionMode="Single"
+                        SelectedItem="{Binding DepartamentoSeleccionado}">
+
+            <CollectionView.Header>
+                <Grid ColumnDefinitions="1*,2*" BackgroundColor="DeepPink" Padding="5">
+                    <Label Text="Id" FontAttributes="Bold"/>
+                    <Label Grid.Column="1" Text="Nombre" FontAttributes="Bold"/>
+                </Grid>
+            </CollectionView.Header>
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid ColumnDefinitions="1*,2*" Padding="5">
+                        <Label Text="{Binding Id}" />
+                        <Label Grid.Column="1" Text="{Binding Name}" />
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+        </CollectionView>
+
+        <VerticalStackLayout Grid.Column="1"  Padding="20"
+                             Spacing="20" HorizontalOptions="Center"
+                VerticalOptions="Center">
+
+            <Label Text="Departamento seleccionado:"
+                   FontAttributes="Bold"/>
+
+            <Label Text="{Binding DepartamentoSeleccionado.Name}"
+                   FontSize="18"
+                   HorizontalOptions="Center"/>
+
+            <Button Text="Ver detalles"
+                    BackgroundColor="DeepPink"
+                    Command="{Binding VerDetallesCommand}"
+                    CommandParameter="{Binding DepartamentoSeleccionado}"
+                    IsVisible="{Binding DepartamentoSeleccionado}" />
+
+        </VerticalStackLayout>
+
+    </Grid>
+
+</ContentPage>

@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irene\\source\\repos\\MauiPractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\viewmodels\\maindetalleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\viewmodels\\maindetalleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\viewmodels\\departamentoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\viewmodels\\departamentoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\viewmodels\\departamentodetalleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\viewmodels\\departamentodetalleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\view\\settingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\view\\settingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\view\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\view\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\view\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\view\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\view\\maindetalleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\view\\maindetalleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\view\\maindetalleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\view\\maindetalleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\view\\departamentoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\view\\departamentoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\view\\departamentoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\view\\departamentoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\view\\departamentodetalleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\view\\departamentodetalleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\view\\departamentodetalleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\view\\departamentodetalleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\services\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\services\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\services\\irestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\services\\irestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irene\\AppData\\Local\\Temp\\.vsdbgsrc\\c65660df3d488965f814efe728aed278dadca87d\\AppShell.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|c:\\users\\irene\\source\\repos\\mauipractica\\mauipractica\\mauipractica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21042E50-AE78-5E92-54D0-356191CD346C}|MauiPractica\\MauiPractica.csproj|solutionrelative:mauipractica\\mauipractica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1042,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\ViewModels\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\ViewModels\\SettingsViewModel.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\ViewModels\\SettingsViewModel.cs",
+              "RelativeToolTip": "MauiPractica\\ViewModels\\SettingsViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T19:00:37.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\App.xaml.cs",
+              "RelativeToolTip": "MauiPractica\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:22:50.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\App.xaml",
+              "RelativeDocumentMoniker": "MauiPractica\\App.xaml",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\App.xaml",
+              "RelativeToolTip": "MauiPractica\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-11T12:36:07.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\AppShell.xaml.cs",
+              "RelativeToolTip": "MauiPractica\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:24:49.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MauiPractica\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\AppShell.xaml",
+              "RelativeToolTip": "MauiPractica\\AppShell.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-12T10:17:46.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\MauiProgram.cs",
+              "RelativeToolTip": "MauiPractica\\MauiProgram.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:21:08.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "MauiPractica\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:19:00.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainDetalleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\ViewModels\\MainDetalleViewModel.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\ViewModels\\MainDetalleViewModel.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\ViewModels\\MainDetalleViewModel.cs",
+              "RelativeToolTip": "MauiPractica\\ViewModels\\MainDetalleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:57:32.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartamentoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\ViewModels\\DepartamentoViewModel.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\ViewModels\\DepartamentoViewModel.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\ViewModels\\DepartamentoViewModel.cs",
+              "RelativeToolTip": "MauiPractica\\ViewModels\\DepartamentoViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:57:34.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartamentoDetalleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\ViewModels\\DepartamentoDetalleViewModel.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\ViewModels\\DepartamentoDetalleViewModel.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\ViewModels\\DepartamentoDetalleViewModel.cs",
+              "RelativeToolTip": "MauiPractica\\ViewModels\\DepartamentoDetalleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:17:17.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SettingsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\SettingsView.xaml.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\View\\SettingsView.xaml.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\SettingsView.xaml.cs",
+              "RelativeToolTip": "MauiPractica\\View\\SettingsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T19:03:22.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingsView.xaml",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\SettingsView.xaml",
+              "RelativeDocumentMoniker": "MauiPractica\\View\\SettingsView.xaml",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\SettingsView.xaml",
+              "RelativeToolTip": "MauiPractica\\View\\SettingsView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-13T19:03:04.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\View\\MainView.xaml.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\MainView.xaml.cs",
+              "RelativeToolTip": "MauiPractica\\View\\MainView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:28:35.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\MainView.xaml",
+              "RelativeDocumentMoniker": "MauiPractica\\View\\MainView.xaml",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\MainView.xaml",
+              "RelativeToolTip": "MauiPractica\\View\\MainView.xaml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-11T12:28:27.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainDetalleView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\MainDetalleView.xaml.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\View\\MainDetalleView.xaml.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\MainDetalleView.xaml.cs",
+              "RelativeToolTip": "MauiPractica\\View\\MainDetalleView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:48:39.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainDetalleView.xaml",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\MainDetalleView.xaml",
+              "RelativeDocumentMoniker": "MauiPractica\\View\\MainDetalleView.xaml",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\MainDetalleView.xaml",
+              "RelativeToolTip": "MauiPractica\\View\\MainDetalleView.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-13T10:57:01.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartamentoView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\DepartamentoView.xaml.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\View\\DepartamentoView.xaml.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\DepartamentoView.xaml.cs",
+              "RelativeToolTip": "MauiPractica\\View\\DepartamentoView.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:55:55.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartamentoView.xaml",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\DepartamentoView.xaml",
+              "RelativeDocumentMoniker": "MauiPractica\\View\\DepartamentoView.xaml",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\DepartamentoView.xaml",
+              "RelativeToolTip": "MauiPractica\\View\\DepartamentoView.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-12T10:56:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartamentoDetalleView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\DepartamentoDetalleView.xaml.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\View\\DepartamentoDetalleView.xaml.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\DepartamentoDetalleView.xaml.cs",
+              "RelativeToolTip": "MauiPractica\\View\\DepartamentoDetalleView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:16:30.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepartamentoDetalleView.xaml",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\DepartamentoDetalleView.xaml",
+              "RelativeDocumentMoniker": "MauiPractica\\View\\DepartamentoDetalleView.xaml",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\View\\DepartamentoDetalleView.xaml",
+              "RelativeToolTip": "MauiPractica\\View\\DepartamentoDetalleView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-12T20:15:59.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DepartamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\Services\\DepartamentoService.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\Services\\DepartamentoService.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\Services\\DepartamentoService.cs",
+              "RelativeToolTip": "MauiPractica\\Services\\DepartamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:54:22.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRestService.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\Services\\IRestService.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\Services\\IRestService.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\Services\\IRestService.cs",
+              "RelativeToolTip": "MauiPractica\\Services\\IRestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:11:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\Services\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\Services\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\Services\\EmpleadoService.cs",
+              "RelativeToolTip": "MauiPractica\\Services\\EmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:09:38.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\Models\\Departamento.cs",
+              "RelativeToolTip": "MauiPractica\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:04:56.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "MauiPractica\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\Models\\Empleado.cs",
+              "RelativeToolTip": "MauiPractica\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:04:43.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppShell.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\irene\\AppData\\Local\\Temp\\.vsdbgsrc\\c65660df3d488965f814efe728aed278dadca87d\\AppShell.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c65660df3d488965f814efe728aed278dadca87d\\AppShell.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\irene\\AppData\\Local\\Temp\\.vsdbgsrc\\c65660df3d488965f814efe728aed278dadca87d\\AppShell.xaml.sg.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c65660df3d488965f814efe728aed278dadca87d\\AppShell.xaml.sg.cs [Solo lectura]",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawBQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:33:38.861Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MauiPractica.csproj",
+              "DocumentMoniker": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\MauiPractica.csproj",
+              "RelativeDocumentMoniker": "MauiPractica\\MauiPractica.csproj",
+              "ToolTip": "C:\\Users\\irene\\source\\repos\\MauiPractica\\MauiPractica\\MauiPractica.csproj",
+              "RelativeToolTip": "MauiPractica\\MauiPractica.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T12:19:57.463Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 395,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1237,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

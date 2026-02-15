@@ -1,0 +1,22 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiPractica.View.SettingsView"
+             Title="Settings">
+
+    <VerticalStackLayout Padding="20" Spacing="20">
+
+        <Label Text="Theme"
+               HorizontalOptions="Center"
+               FontSize="30" />
+
+        <Picker ItemsSource="{Binding Themes}"
+                SelectedItem="{Binding SelectedTheme}"
+                HorizontalOptions="Center"
+                WidthRequest="200"/>
+
+        <Button Text="Guerdar"
+                Command="{Binding SaveSettingsCommand}"
+                HorizontalOptions="Center"/>
+
+    </VerticalStackLayout>
+</ContentPage>
