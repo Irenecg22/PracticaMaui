@@ -107,19 +107,31 @@ También navegacion interna entre pantallas.
 - .NET 8 SDK
 - Workload de .NET MAUI instalado
 - API en ejecución (local o remota)
+### **Visión de la app**
+<img width="1404" height="647" alt="image" src="https://github.com/user-attachments/assets/a7760064-0400-4b92-97c7-ef27f0fd316f" />
+<img width="1409" height="593" alt="image" src="https://github.com/user-attachments/assets/da7c952c-7a90-4539-b029-b8454a10944b" />
+<img width="1405" height="715" alt="image" src="https://github.com/user-attachments/assets/2b8c8076-e4f3-495d-9d0e-3f68e9a64260" />
+<img width="1403" height="499" alt="image" src="https://github.com/user-attachments/assets/3540786f-2463-4cd9-862e-3c4eb6c5fbda" />
+<img width="1407" height="650" alt="image" src="https://github.com/user-attachments/assets/c3292295-1651-46a4-aaf0-ab0fc40b586a" />
+<img width="1414" height="536" alt="image" src="https://github.com/user-attachments/assets/2903ae2f-9453-401d-a6aa-69b37a9e075e" />
 
-###  Pasos para ejecutar
+
+
+
+### **Pasos para ejecutar**
 
 1. Clonar el repositorio:
 
 ```bash
 git clone https://github.com/usuario/MauiPractica.git
-Abrir la solución en Visual Studio.
 
-Verificar que la API esté en ejecución (por ejemplo):
+2. Abrir la solución en Visual Studio.
+
+3. Verificar que la API esté en ejecución (por ejemplo):
 
 http://127.0.0.1:8000/empleados/
-Seleccionar el dispositivo de destino:
+
+4. Seleccionar el dispositivo de destino:
 
 Windows
 
@@ -127,18 +139,5 @@ Android Emulator
 
 Dispositivo físico
 
-## Visión de la app
-
-![Uploading image.png…]()
-
-
-![Screenshot](docs/screenshot.png)
-📄 Licencia
-Este proyecto se distribuye bajo la licencia MIT.
-
-## Autor
+AUTOR
 Irene Cañada Gómez
-
-Irene F.
-Proyecto académico – Desarrollo de Aplicaciones Multiplataforma
-Curso: Sistemas Informáticos en Red
